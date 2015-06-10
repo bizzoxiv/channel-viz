@@ -13,7 +13,7 @@
 	*/
 
 	var defaultKey		= 'DbHsJxF1QuRMlr3gs51YvgOyQhiK2479k12twYwl7gSSZ59Z', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [1627803782], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= '1627803782', // [1627803782], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Office light', // Replaces Xively logo in the header
 		dataDuration	= '1day', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 10, // Default interval for data to be displayed (in seconds)
